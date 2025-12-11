@@ -53,8 +53,8 @@ Key insights:
 ### Classification
 | Model | Accuracy | Notes |
 |-------|-----------|--------|
-| Logistic Regression | 54% | Struggled separating classes |
-| **XGBoost Classifier** | **76%** | High‑delay recall: 83% |
+| Logistic Regression | 84% | Struggled separating classes |
+| **XGBoost Classifier** | **96%** | High‑delay recall: 83% |
 
 ## 7. System Concept — “Delay‑Radar”
 1. Data validation pipeline  
